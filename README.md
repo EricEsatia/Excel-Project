@@ -15,6 +15,9 @@
 
 The aim of this Data Analysis Project is to analyze hospital data to identify positive and negative trends in the wait time, how wait times affect service delivery within the hospital, recommend how to reslove the issues identified and to limit long wait times for the patients while maximizing profits for the hospital.
 
+![image](https://github.com/EricEsatia/Excel-Project/assets/145187562/db034dfc-1384-4c58-973d-b09fb7ce12c8)
+
+
 ## Data Source
 
 The primary dataset used for this analysis is "hospital_data.xlsx" which contains data on patient entry times, consultation times and different days of the week. This dataset contains a total of 29999 rows of data.
